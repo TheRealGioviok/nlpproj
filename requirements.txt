@@ -1,0 +1,13 @@
+# torch with cuda required: pip install torch --index-url https://download.pytorch.org/whl/cu128
+transformers>=5
+datasets
+accelerate
+peft>=0.20
+bitsandbytes>=0.43.0
+xgrammar
+sacrebleu
+rouge-score
+pandas
+kagglehub
+jupyter
+matplotlib

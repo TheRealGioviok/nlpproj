@@ -1,0 +1,24 @@
+.venv/
+data/
+models/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# LaTeX build files
+*.tex
+report.aux
+report.fdb_latexmk
+report.fls
+report.log
+report.out
+report.synctex.gz
+grep_stderr.log
+*.fls
+
+# Run artefacts
+logs/
+results/archive_*/
+results/*
+
+scripts/export_models.py
